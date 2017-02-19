@@ -1,0 +1,17 @@
+a {
+	display:inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: #c4daff;
+	margin: 2px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+a:hover {
+	background-color: #005fff;
+}
+
+a:active {
+	background-color: #ffe900;
+}
